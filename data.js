@@ -25,6 +25,14 @@ window.SITE_DATA = {
   "lessons": [],
   "files": [
     {
+      "id": "mwr709zsineh",
+      "date": "2026-11-22T02:03:21.880Z",
+      "title": "التلع",
+      "kind": "ملخص",
+      "url": "files/aaa.pdf",
+      "desc": ""
+    },
+    {
       "id": "mwr6bo1e7j53",
       "date": "2026-11-22T01:44:13.682Z",
       "title": "البلاغة للصف الأول الثانوي",
@@ -52,5 +60,5 @@ window.SITE_DATA = {
   "articles": [],
   "words": [],
   "challenges": [],
-  "_saved": 1795312284379
+  "_saved": 1795313007307
 };
